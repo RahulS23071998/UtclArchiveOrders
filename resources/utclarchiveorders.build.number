@@ -1,0 +1,11 @@
+#Ant properties
+#Wed Sep 07 10:15:18 CEST 2022
+version.api=2011
+vendor=hybris
+group.id=de.hybris.platform
+name=utclarchiveorders
+description=utclarchiveorders
+builddate=20220907 1012
+releasedate=20201119 1630
+version=2011.24
+module.name=platform-module
